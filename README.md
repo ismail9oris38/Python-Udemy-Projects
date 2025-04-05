@@ -10,6 +10,7 @@ Bu repo içerisinde, Python dilinde geliştirdiğim farklı projeler bulunmaktad
 
 - **Snake Game**: Python ile geliştirilmiş klasik bir yılan oyunu. Oyun geliştirmeye başlamak isteyenler için basit ve eğlenceli bir örnek.
 - **Pong Game**: Python ile geliştirilmiş klasik pong oyunu. Python da turtle kütüphanesinde gelişmek isteyen için güzel bir örnek.
+- **Turtle Crossing Game**: Python ile geliştirilmiş yine klasik oyunlardan birisi.
 - **daha fazlası yakında**
 
 ## Projeler Hakkında

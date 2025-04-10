@@ -29,12 +29,14 @@ Projeyi düzgün çalıştırmak için aşağıdaki dosyaların aynı klasörde 
 - `main.py` – oyun kodları (senin yazdığın Python dosyası)
 
 ## 📁 Örnek Dosya Yapısı
+<pre><code>
 türkiye-sehir-oyunu/
 ├── main.py
 ├── şehirlerin_koordinatları.csv
 ├── türkiye-haritası.gif
-├── bulamadıklarım.csv  # (oyun sonunda otomatik oluşur)
+├── bulamadıklarım.csv        # (oyun sonunda otomatik oluşur)
 └── README.md
+</code></pre>
 
 ## 🧭 Koordinatlar Hakkında
 

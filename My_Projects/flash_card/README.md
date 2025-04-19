@@ -80,7 +80,7 @@ python main.py
 ## 📩 Geliştirici
 
 **İsmail Orhan**  
-📧 ismailorhan831@gamil.com
+📧 ismailorhan831@gmail.com
 
 ---
 

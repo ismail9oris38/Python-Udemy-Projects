@@ -9,7 +9,7 @@ Aşağıda uygulamanın arayüzüne ait bir örnek görüntü yer almaktadır:
 
 > 📷 Örnek Görsel:  
 
-![Uygulama Ekranı](ilk_açılış.png)
+![Uygulama Ekranı](ilk_açılış.png)
 ![Uygulama Ekranı](to_do_ekran_görüntüsü.png)
 
 ---

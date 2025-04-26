@@ -16,10 +16,10 @@ def menu():
 
     if tmp > 0:
         tmp = -1
-        new_button = Button(text="New", width=15, height=2, command=new)
-        open_button = Button(text="Open", width=15, height=2, command=open_file)
-        save_button = Button(text="Save", width=15, height=2, command=save)
-        exit_button = Button(text="Exit", width=15, height=2, command=exit_programing)
+        new_button = Button(text="New", width=10, height=2, command=new)
+        open_button = Button(text="Open", width=10, height=2, command=open_file)
+        save_button = Button(text="Save", width=10, height=2, command=save)
+        exit_button = Button(text="Exit", width=10, height=2, command=exit_programing)
 
         new_button.grid(row=1, column=0, pady=5)
         open_button.grid(row=2, column=0, pady=5)
